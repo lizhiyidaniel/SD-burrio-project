@@ -1,0 +1,19 @@
+id,Location,Burrito,Neighborhood,Yelp,Google,Cost,overall,Total_Listings,Average_Price_per_Night
+1,Nico's Taco Shop,California,Carmel Valley,3,2.9,7.19,2.6,156,120
+2,Porkyland ,Deborah's special,Carmel Valley,4,4.4,8.25,4,156,120
+3,Taco Stand,California,La Jolla,4.5,4.4,7.49,4.2,847,285
+4,Rigoberto's Taco Shop La Jolla,California,La Jolla,2.5,4,6.4,3,847,285
+5,Goody's,Custom,La Jolla,3.5,4.1,7.25,1.8,847,285
+6,Don Carlos Taco Shop,California,La Jolla,4,4.5,7.75,3.7,847,285
+7,Lolita's taco shop,2 in 1,Kearny Mesa,4,4.4,8.75,4,13,65
+8,Pokirrito,Pokirrito classic ,Kearny Mesa,4,4.3,11.95,4.2,13,65
+9,Mikes Taco Club,California,Ocean Beach,4.5,4.9,8.59,4.3,522,177
+10,La Perla Cocina,Addiction,Pacific Beach,4.5,4.7,7.99,2.5,1052,157
+11,Taco Surf PB,California,Pacific Beach,4,4.6,7.14,4.4,1052,157
+12,Ortiz's Taco Shop #2,California,Pacific Beach,4,4.2,6.39,4.25,1052,157
+13,California Burritos,California Everything,Linda Vista,4.5,4.4,6.25,4.1,133,100
+14,Lupe's Taco Shop,Hot cheetos,Linda Vista,3.5,4.5,7.29,3.7,133,100
+15,Papa Chito's Mexican Food,California,University City,2.5,3.3,6.25,2.2,230,90
+16,La Morena Taco Shop and Seafood,California,Webster,4.5,4.7,6.35,3,25,85
+17,Gloria's Taco Shop,California ,South Park,4,4.3,5.65,2.7,101,100
+18,Caliente Mexican Food,carne asada ,Sorrento Valley,3.5,4.4,5.56,3.5,31,120

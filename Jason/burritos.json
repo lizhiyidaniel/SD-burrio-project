@@ -1,0 +1,2022 @@
+[
+        {
+          "Burrito Type": "California ", 
+          "URL": "http://donatostacoshop.net/", 
+          "address": "6780 Miramar Rd", 
+          "burrito score": 3.8, 
+          "id": 0, 
+          "neighborhood": "Miramar", 
+          "price": 6.49, 
+          "restaurant name": "Donato's taco shop"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "http://www.yelp.com/biz/oscars-mexican-food-san-marcos", 
+          "address": "225 S Rancho Santa Fe Rd", 
+          "burrito score": 3.0, 
+          "id": 1, 
+          "neighborhood": "San Marcos", 
+          "price": 5.45, 
+          "restaurant name": "Oscar's Mexican food"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "http://www.yelp.com/biz/oscars-mexican-food-san-marcos", 
+          "address": "225 S Rancho Santa Fe Rd", 
+          "burrito score": 3.0, 
+          "id": 2, 
+          "neighborhood": "San Marcos", 
+          "price": 4.85, 
+          "restaurant name": "Oscar's Mexican food"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "http://www.yelp.com/biz/oscars-mexican-food-san-marcos", 
+          "address": "225 S Rancho Santa Fe Rd", 
+          "burrito score": 3.75, 
+          "id": 3, 
+          "neighborhood": "San Marcos", 
+          "price": 5.25, 
+          "restaurant name": "Oscar's Mexican food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://pollosmaria.com/", 
+          "address": "3055 Harding St", 
+          "burrito score": 4.2, 
+          "id": 4, 
+          "neighborhood": "Carlsbad", 
+          "price": 6.59, 
+          "restaurant name": "Pollos Maria"
+        }, 
+        {
+          "Burrito Type": "combo chicken", 
+          "URL": "http://pollosmaria.com/", 
+          "address": "3055 Harding St", 
+          "burrito score": 3.2, 
+          "id": 5, 
+          "neighborhood": "Carlsbad", 
+          "price": 6.99, 
+          "restaurant name": "Pollos Maria"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://www.yelp.com/biz/nicos-taco-shop-san-diego", 
+          "address": "3860 Valley Centre Dr #404", 
+          "burrito score": 2.6, 
+          "id": 6, 
+          "neighborhood": "Carmel Valley", 
+          "price": 7.19, 
+          "restaurant name": "Nico's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "http://www.yelp.com/biz/nicos-taco-shop-san-diego", 
+          "address": "3860 Valley Centre Dr #404", 
+          "burrito score": 3.0, 
+          "id": 7, 
+          "neighborhood": "Carmel Valley", 
+          "price": 6.99, 
+          "restaurant name": "Nico's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Monster California", 
+          "URL": "http://www.primosmex.com/", 
+          "address": "7770 Regents Rd", 
+          "burrito score": 3.9, 
+          "id": 8, 
+          "neighborhood": "UTC", 
+          "price": 9.25, 
+          "restaurant name": "Los Primos Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carne Asada", 
+          "URL": "http://jvsmexfood.com/", 
+          "address": "1112 Morena Blvd", 
+          "burrito score": 2.0, 
+          "id": 9, 
+          "neighborhood": "Morena", 
+          "price": 6.25, 
+          "restaurant name": "JV's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "http://jvsmexfood.com/", 
+          "address": "1112 Morena Blvd", 
+          "burrito score": 2.5, 
+          "id": 10, 
+          "neighborhood": "Morena", 
+          "price": 9.5, 
+          "restaurant name": "JV's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Chile verde pork", 
+          "URL": "https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego", 
+          "address": "7122 Miramar Rd", 
+          "burrito score": 3.0, 
+          "id": 11, 
+          "neighborhood": "Miramar", 
+          "price": 6.95, 
+          "restaurant name": "Tony's Fresh Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego", 
+          "address": "7122 Miramar Rd", 
+          "burrito score": 3.9, 
+          "id": 12, 
+          "neighborhood": "Miramar", 
+          "price": 6.25, 
+          "restaurant name": "Tony's Fresh Mexican Food"
+        }, 
+        {
+          "Burrito Type": "battered fish ", 
+          "URL": "https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego", 
+          "address": "7122 Miramar Rd", 
+          "burrito score": 2.0, 
+          "id": 13, 
+          "neighborhood": "Miramar", 
+          "price": 6.99, 
+          "restaurant name": "Tony's Fresh Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego", 
+          "address": "7122 Miramar Rd", 
+          "burrito score": 2.75, 
+          "id": 14, 
+          "neighborhood": "Miramar", 
+          "price": 6.25, 
+          "restaurant name": "Tony's Fresh Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://letstaco.com/", 
+          "address": "621 Pearl St", 
+          "burrito score": 4.2, 
+          "id": 15, 
+          "neighborhood": "La Jolla", 
+          "price": 7.49, 
+          "restaurant name": "Taco Stand"
+        }, 
+        {
+          "Burrito Type": "Surf and turf ", 
+          "URL": "http://letstaco.com/", 
+          "address": "621 Pearl St", 
+          "burrito score": 4.1, 
+          "id": 16, 
+          "neighborhood": "La Jolla", 
+          "price": 8.49, 
+          "restaurant name": "Taco Stand"
+        }, 
+        {
+          "Burrito Type": "Adobada ", 
+          "URL": "https://www.yelp.com/biz/gracielas-taco-shop-bonita-2", 
+          "address": "5047 Central Ave", 
+          "burrito score": 4.0, 
+          "id": 17, 
+          "neighborhood": "Bonita", 
+          "price": 5.99, 
+          "restaurant name": "Graciela's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Barbacoa", 
+          "URL": "https://www.yelp.com/biz/gracielas-taco-shop-bonita-2", 
+          "address": "5047 Central Ave", 
+          "burrito score": 4.0, 
+          "id": 18, 
+          "neighborhood": "Bonita", 
+          "price": 5.99, 
+          "restaurant name": "Graciela's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/rigobertos-la-jolla-2", 
+          "address": "7345 La Jolla Blvd", 
+          "burrito score": 3.0, 
+          "id": 19, 
+          "neighborhood": "La Jolla", 
+          "price": 6.4, 
+          "restaurant name": "Rigoberto's Taco Shop La Jolla"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/rigobertos-la-jolla-2", 
+          "address": "7345 La Jolla Blvd", 
+          "burrito score": 3.5, 
+          "id": 20, 
+          "neighborhood": "La Jolla", 
+          "price": 6.4, 
+          "restaurant name": "Rigoberto's Taco Shop La Jolla"
+        }, 
+        {
+          "Burrito Type": "2 in 1", 
+          "URL": "http://lolitasmexicanfood.com/", 
+          "address": "7305 Clairemont Mesa Blvd", 
+          "burrito score": 4.0, 
+          "id": 21, 
+          "neighborhood": "Kearny Mesa", 
+          "price": 8.75, 
+          "restaurant name": "Lolita's taco shop"
+        }, 
+        {
+          "Burrito Type": "Adobado", 
+          "URL": "http://lolitasmexicanfood.com/", 
+          "address": "7305 Clairemont Mesa Blvd", 
+          "burrito score": 3.5, 
+          "id": 22, 
+          "neighborhood": "Kearny Mesa", 
+          "price": 5.5, 
+          "restaurant name": "Lolita's taco shop"
+        }, 
+        {
+          "Burrito Type": "Shredded beef", 
+          "URL": "https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad", 
+          "address": "3292 Roosevelt St", 
+          "burrito score": 3.8, 
+          "id": 25, 
+          "neighborhood": "Carlsbad", 
+          "price": 6.0, 
+          "restaurant name": "Lola's 7 Up Market & Deli"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad", 
+          "address": "3292 Roosevelt St", 
+          "burrito score": 3.0, 
+          "id": 26, 
+          "neighborhood": "Carlsbad", 
+          "price": 7.0, 
+          "restaurant name": "Lola's 7 Up Market & Deli"
+        }, 
+        {
+          "Burrito Type": "Hawaiian", 
+          "URL": "https://www.yelp.com/biz/colimas-mexican-food-san-diego", 
+          "address": "2302 University Ave", 
+          "burrito score": 4.0, 
+          "id": 27, 
+          "neighborhood": "North park", 
+          "price": 6.29, 
+          "restaurant name": "Colima's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Bandido", 
+          "URL": "https://www.yelp.com/biz/colimas-mexican-food-san-diego", 
+          "address": "2302 University Ave", 
+          "burrito score": 4.0, 
+          "id": 28, 
+          "neighborhood": "North park", 
+          "price": 6.49, 
+          "restaurant name": "Colima's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Bandido", 
+          "URL": "https://www.yelp.com/biz/colimas-mexican-food-san-diego", 
+          "address": "2302 University Ave", 
+          "burrito score": 3.0, 
+          "id": 29, 
+          "neighborhood": "North park", 
+          "price": 6.49, 
+          "restaurant name": "Colima's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2", 
+          "address": "7094 Miramar Rd", 
+          "burrito score": 4.25, 
+          "id": 30, 
+          "neighborhood": "Miramar", 
+          "price": 6.6, 
+          "restaurant name": "Rigoberto's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Campeon", 
+          "URL": "https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2", 
+          "address": "7094 Miramar Rd", 
+          "burrito score": 3.4, 
+          "id": 31, 
+          "neighborhood": "Miramar", 
+          "price": 7.65, 
+          "restaurant name": "Rigoberto's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Chile verde pork", 
+          "URL": "https://www.yelp.com/biz/rauls-shack-encinitas", 
+          "address": "490 S Coast Hwy 101", 
+          "burrito score": 2.0, 
+          "id": 32, 
+          "neighborhood": "Encinitas", 
+          "price": 5.0, 
+          "restaurant name": "Raul's Mexican food"
+        }, 
+        {
+          "Burrito Type": "carne asada", 
+          "URL": "https://www.yelp.com/biz/rauls-shack-encinitas", 
+          "address": "490 S Coast Hwy 101", 
+          "burrito score": 1.0, 
+          "id": 33, 
+          "neighborhood": "Encinitas", 
+          "price": 5.0, 
+          "restaurant name": "Raul's Mexican food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/el-zarape-san-diego", 
+          "address": "4642 Park Blvd", 
+          "burrito score": 3.33333, 
+          "id": 34, 
+          "neighborhood": "University Heights", 
+          "price": 6.25, 
+          "restaurant name": "El Zarape"
+        }, 
+        {
+          "Burrito Type": "California chicken", 
+          "URL": "https://www.yelp.com/biz/el-zarape-san-diego", 
+          "address": "4642 Park Blvd", 
+          "burrito score": 2.5, 
+          "id": 35, 
+          "neighborhood": "University Heights", 
+          "price": 6.25, 
+          "restaurant name": "El Zarape"
+        }, 
+        {
+          "Burrito Type": "Azteca", 
+          "URL": "https://www.yelp.com/biz/el-zarape-san-diego", 
+          "address": "4642 Park Blvd", 
+          "burrito score": 3.0, 
+          "id": 36, 
+          "neighborhood": "University Heights", 
+          "price": 6.25, 
+          "restaurant name": "El Zarape"
+        }, 
+        {
+          "Burrito Type": "Lobster", 
+          "URL": "https://www.yelp.com/biz/el-zarape-san-diego", 
+          "address": "4642 Park Blvd", 
+          "burrito score": 3.2, 
+          "id": 37, 
+          "neighborhood": "University Heights", 
+          "price": 9.5, 
+          "restaurant name": "El Zarape"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://elindiosandiego.com/", 
+          "address": "3695 India St", 
+          "burrito score": 4.0, 
+          "id": 38, 
+          "neighborhood": "San Diego", 
+          "price": 7.84, 
+          "restaurant name": "El Indio"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://cancunmexicanandseafood.com/", 
+          "address": "1766 N Coast Hwy", 
+          "burrito score": 4.2, 
+          "id": 42, 
+          "neighborhood": "Encinitas", 
+          "price": 6.99, 
+          "restaurant name": "Cancun Mexican & Seafood"
+        }, 
+        {
+          "Burrito Type": "Machaca", 
+          "URL": "http://cancunmexicanandseafood.com/", 
+          "address": "1766 N Coast Hwy", 
+          "burrito score": 3.9, 
+          "id": 43, 
+          "neighborhood": "Encinitas", 
+          "price": 5.99, 
+          "restaurant name": "Cancun Mexican & Seafood"
+        }, 
+        {
+          "Burrito Type": "Quesaburro", 
+          "URL": "http://www.vallartaexpress.com/menu/", 
+          "address": "4277 Genesee Ave", 
+          "burrito score": 4.1, 
+          "id": 44, 
+          "neighborhood": "Clairemont", 
+          "price": 6.95, 
+          "restaurant name": "Vallarta express"
+        }, 
+        {
+          "Burrito Type": "Philly ", 
+          "URL": "http://www.vallartaexpress.com/menu/", 
+          "address": "4277 Genesee Ave", 
+          "burrito score": 3.0, 
+          "id": 45, 
+          "neighborhood": "Clairemont", 
+          "price": 6.95, 
+          "restaurant name": "Vallarta express"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "http://www.vallartaexpress.com/menu/", 
+          "address": "4277 Genesee Ave", 
+          "burrito score": 3.25, 
+          "id": 46, 
+          "neighborhood": "Clairemont", 
+          "price": 6.5, 
+          "restaurant name": "Vallarta express"
+        }, 
+        {
+          "Burrito Type": "Quesa", 
+          "URL": "http://www.vallartaexpress.com/menu/", 
+          "address": "4277 Genesee Ave", 
+          "burrito score": 3.75, 
+          "id": 47, 
+          "neighborhood": "Clairemont", 
+          "price": 6.95, 
+          "restaurant name": "Vallarta express"
+        }, 
+        {
+          "Burrito Type": "Surf and turf", 
+          "URL": "http://www.vallartaexpress.com/menu/", 
+          "address": "4277 Genesee Ave", 
+          "burrito score": 3.5, 
+          "id": 48, 
+          "neighborhood": "Clairemont", 
+          "price": 7.65, 
+          "restaurant name": "Vallarta express"
+        }, 
+        {
+          "Burrito Type": "Mahi", 
+          "URL": "http://www.vallartaexpress.com/menu/", 
+          "address": "4277 Genesee Ave", 
+          "burrito score": 3.5, 
+          "id": 49, 
+          "neighborhood": "Clairemont", 
+          "price": 7.3, 
+          "restaurant name": "Vallarta express"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://www.mikestacoclub.com/menu/", 
+          "address": "5060 Newport Ave", 
+          "burrito score": 4.3, 
+          "id": 50, 
+          "neighborhood": "Ocean Beach", 
+          "price": 8.59, 
+          "restaurant name": "Mikes Taco Club"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://www.mikestacoclub.com/menu/", 
+          "address": "5060 Newport Ave", 
+          "burrito score": 4.5, 
+          "id": 51, 
+          "neighborhood": "Ocean Beach", 
+          "price": 8.59, 
+          "restaurant name": "Mikes Taco Club"
+        }, 
+        {
+          "Burrito Type": "Addiction", 
+          "URL": "https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego", 
+          "address": "745 Emerald St", 
+          "burrito score": 2.5, 
+          "id": 52, 
+          "neighborhood": "Pacific Beach", 
+          "price": 7.99, 
+          "restaurant name": "La Perla Cocina"
+        }, 
+        {
+          "Burrito Type": "Oaxacalifornia", 
+          "URL": "https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego", 
+          "address": "745 Emerald St", 
+          "burrito score": 4.0, 
+          "id": 53, 
+          "neighborhood": "Pacific Beach", 
+          "price": 9.99, 
+          "restaurant name": "La Perla Cocina"
+        }, 
+        {
+          "Burrito Type": "Deborah's special", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 4.0, 
+          "id": 54, 
+          "neighborhood": "Carmel Valley", 
+          "price": 8.25, 
+          "restaurant name": "Porkyland "
+        }, 
+        {
+          "Burrito Type": "Chicken nopalito", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 3.3, 
+          "id": 55, 
+          "neighborhood": "Carmel Valley", 
+          "price": 7.95, 
+          "restaurant name": "Porkyland "
+        }, 
+        {
+          "Burrito Type": "Chicken nopalito", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 4.0, 
+          "id": 56, 
+          "neighborhood": "Carmel Valley", 
+          "price": 7.95, 
+          "restaurant name": "Porkyland "
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 4.0, 
+          "id": 57, 
+          "neighborhood": "Carmel Valley", 
+          "price": 8.75, 
+          "restaurant name": "Porkyland "
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 4.5, 
+          "id": 58, 
+          "neighborhood": "Carmel Valley", 
+          "price": 6.6, 
+          "restaurant name": "Rigoberto's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Adobada", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 4.5, 
+          "id": 59, 
+          "neighborhood": "Carmel Valley", 
+          "price": 6.6, 
+          "restaurant name": "Rigoberto's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 3.6, 
+          "id": 60, 
+          "neighborhood": "Carmel Valley", 
+          "price": 6.6, 
+          "restaurant name": "Rigoberto's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "http://goporkyland.com/", 
+          "address": "4645 Carmel Mountain Rd", 
+          "burrito score": 3.0, 
+          "id": 61, 
+          "neighborhood": "Carmel Valley", 
+          "price": 7.45, 
+          "restaurant name": "Rigoberto's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Chicken", 
+          "URL": "http://www.rudystacoshop.com/", 
+          "address": "524 Stevens Ave", 
+          "burrito score": 2.8, 
+          "id": 62, 
+          "neighborhood": "Solana Beach", 
+          "price": 6.6, 
+          "restaurant name": "Rudy's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "http://www.rudystacoshop.com/", 
+          "address": "524 Stevens Ave", 
+          "burrito score": 3.0, 
+          "id": 63, 
+          "neighborhood": "Solana Beach", 
+          "price": 6.6, 
+          "restaurant name": "Rudy's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California Everything", 
+          "URL": "https://www.yelp.com/biz/california-burritos-san-diego", 
+          "address": "7754 Starling Dr", 
+          "burrito score": 4.1, 
+          "id": 66, 
+          "neighborhood": "Linda Vista", 
+          "price": 6.25, 
+          "restaurant name": "California Burritos"
+        }, 
+        {
+          "Burrito Type": "California Everything", 
+          "URL": "https://www.yelp.com/biz/california-burritos-san-diego", 
+          "address": "7754 Starling Dr", 
+          "burrito score": 4.0, 
+          "id": 67, 
+          "neighborhood": "Linda Vista", 
+          "price": 6.25, 
+          "restaurant name": "California Burritos"
+        }, 
+        {
+          "Burrito Type": "California Everything", 
+          "URL": "https://www.yelp.com/biz/california-burritos-san-diego", 
+          "address": "7754 Starling Dr", 
+          "burrito score": 4.6, 
+          "id": 68, 
+          "neighborhood": "Linda Vista", 
+          "price": 6.25, 
+          "restaurant name": "California Burritos"
+        }, 
+        {
+          "Burrito Type": "Chile relleno and carnitas", 
+          "URL": "https://www.yelp.com/biz/california-burritos-san-diego", 
+          "address": "7754 Starling Dr", 
+          "burrito score": 4.7, 
+          "id": 69, 
+          "neighborhood": "Linda Vista", 
+          "price": 6.5, 
+          "restaurant name": "California Burritos"
+        }, 
+        {
+          "Burrito Type": "California (only cheese)", 
+          "URL": "https://www.yelp.com/biz/california-burritos-san-diego", 
+          "address": "7754 Starling Dr", 
+          "burrito score": 5.0, 
+          "id": 70, 
+          "neighborhood": "Linda Vista", 
+          "price": 6.25, 
+          "restaurant name": "California Burritos"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/jorges-mexicatessen-encinitas", 
+          "address": "267 N El Camino Real", 
+          "burrito score": 3.8, 
+          "id": 73, 
+          "neighborhood": "Encinitas ", 
+          "price": 5.95, 
+          "restaurant name": "Jorge's Mexicatessen"
+        }, 
+        {
+          "Burrito Type": "Chimichanga beef", 
+          "URL": "https://www.yelp.com/biz/jorges-mexicatessen-encinitas", 
+          "address": "267 N El Camino Real", 
+          "burrito score": 3.0, 
+          "id": 74, 
+          "neighborhood": "Encinitas ", 
+          "price": 5.5, 
+          "restaurant name": "Jorge's Mexicatessen"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "eatgrubbys.com", 
+          "address": "377 Carlsbad Village Dr", 
+          "burrito score": 1.5, 
+          "id": 75, 
+          "neighborhood": "Carlsbad", 
+          "price": 9.0, 
+          "restaurant name": "Senor Grubby's"
+        }, 
+        {
+          "Burrito Type": "Pastor", 
+          "URL": "eatgrubbys.com", 
+          "address": "377 Carlsbad Village Dr", 
+          "burrito score": 1.8, 
+          "id": 76, 
+          "neighborhood": "Carlsbad", 
+          "price": 9.0, 
+          "restaurant name": "Senor Grubby's"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://sites.google.com/site/miasador/", 
+          "address": "4750 Oceanside Blvd", 
+          "burrito score": 3.0, 
+          "id": 78, 
+          "neighborhood": "Oceanside", 
+          "price": 6.89, 
+          "restaurant name": "Mi Asador Mexican & Seafood "
+        }, 
+        {
+          "Burrito Type": "El Hawaiiano ", 
+          "URL": "https://sites.google.com/site/miasador/", 
+          "address": "4750 Oceanside Blvd", 
+          "burrito score": 3.5, 
+          "id": 79, 
+          "neighborhood": "Oceanside", 
+          "price": 6.39, 
+          "restaurant name": "Mi Asador Mexican & Seafood "
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/sotos-mexican-food-san-diego", 
+          "address": "6904 Miramar Rd", 
+          "burrito score": 3.5, 
+          "id": 80, 
+          "neighborhood": "Miramar ", 
+          "price": 6.75, 
+          "restaurant name": "Sotos Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Pastor", 
+          "URL": "https://www.yelp.com/biz/sotos-mexican-food-san-diego", 
+          "address": "6904 Miramar Rd", 
+          "burrito score": 3.2, 
+          "id": 81, 
+          "neighborhood": "Miramar ", 
+          "price": 5.99, 
+          "restaurant name": "Sotos Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Bomb", 
+          "URL": "https://www.yelp.com/biz/karinas-taco-shop-encinitas", 
+          "address": "916 N Coast Hwy 101", 
+          "burrito score": 3.7, 
+          "id": 100, 
+          "neighborhood": "Encinitas ", 
+          "price": 7.99, 
+          "restaurant name": "Karina's Taco Shop "
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/karinas-taco-shop-encinitas", 
+          "address": "916 N Coast Hwy 101", 
+          "burrito score": 3.8, 
+          "id": 101, 
+          "neighborhood": "Encinitas ", 
+          "price": 6.99, 
+          "restaurant name": "Karina's Taco Shop "
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/juanitas-taco-shop-encinitas", 
+          "address": "290 N Coast Hwy 101", 
+          "burrito score": 3.5, 
+          "id": 102, 
+          "neighborhood": "Encinitas ", 
+          "price": 5.55, 
+          "restaurant name": "Juanita's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Arizona", 
+          "URL": "https://www.yelp.com/biz/juanitas-taco-shop-encinitas", 
+          "address": "290 N Coast Hwy 101", 
+          "burrito score": 3.9, 
+          "id": 103, 
+          "neighborhood": "Encinitas ", 
+          "price": 5.55, 
+          "restaurant name": "Juanita's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Custom", 
+          "URL": "https://www.yelp.com/biz/goodys-place-and-market-la-jolla", 
+          "address": "Marshall College", 
+          "burrito score": 1.8, 
+          "id": 104, 
+          "neighborhood": "La Jolla", 
+          "price": 7.25, 
+          "restaurant name": "Goody's"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/taco-surf-taco-shop-san-diego", 
+          "address": "4657 Mission Blvd", 
+          "burrito score": 4.4, 
+          "id": 113, 
+          "neighborhood": "Pacific Beach", 
+          "price": 7.14, 
+          "restaurant name": "Taco Surf PB"
+        }, 
+        {
+          "Burrito Type": "Chicken asada", 
+          "URL": "https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2", 
+          "address": "2206 Carmel Valley Road", 
+          "burrito score": 1.5, 
+          "id": 116, 
+          "neighborhood": "Del Mar", 
+          "price": 6.5, 
+          "restaurant name": "Roberto's Very Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2", 
+          "address": "2206 Carmel Valley Road", 
+          "burrito score": 2.7, 
+          "id": 117, 
+          "neighborhood": "Del Mar", 
+          "price": 5.4, 
+          "restaurant name": "Roberto's Very Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/netos-mexican-food-san-marcos", 
+          "address": "325 S Rancho Santa Fe Rd", 
+          "burrito score": 3.2, 
+          "id": 118, 
+          "neighborhood": "San Marcos", 
+          "price": 5.99, 
+          "restaurant name": "Netos Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carne adobada ", 
+          "URL": "https://www.yelp.com/biz/netos-mexican-food-san-marcos", 
+          "address": "325 S Rancho Santa Fe Rd", 
+          "burrito score": 3.0, 
+          "id": 119, 
+          "neighborhood": "San Marcos", 
+          "price": 5.5, 
+          "restaurant name": "Netos Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/netos-mexican-food-san-marcos", 
+          "address": "325 S Rancho Santa Fe Rd", 
+          "burrito score": 2.6, 
+          "id": 120, 
+          "neighborhood": "San Marcos", 
+          "price": 6.25, 
+          "restaurant name": "Lolita's Taco shop"
+        }, 
+        {
+          "Burrito Type": "Shrimp", 
+          "URL": "https://www.yelp.com/biz/netos-mexican-food-san-marcos", 
+          "address": "325 S Rancho Santa Fe Rd", 
+          "burrito score": 3.0, 
+          "id": 121, 
+          "neighborhood": "San Marcos", 
+          "price": 8.95, 
+          "restaurant name": "Lolita's Taco shop"
+        }, 
+        {
+          "Burrito Type": "Bean and cheese", 
+          "URL": "https://www.yelp.com/biz/netos-mexican-food-san-marcos", 
+          "address": "325 S Rancho Santa Fe Rd", 
+          "burrito score": 2.7, 
+          "id": 122, 
+          "neighborhood": "San Marcos", 
+          "price": 3.5, 
+          "restaurant name": "Lolita's Taco shop"
+        }, 
+        {
+          "Burrito Type": "Pokirrito classic ", 
+          "URL": "https://www.yelp.com/biz/pokirrito-san-diego-2", 
+          "address": "4646 Convoy St", 
+          "burrito score": 4.2, 
+          "id": 123, 
+          "neighborhood": "Kearny Mesa", 
+          "price": 11.95, 
+          "restaurant name": "Pokirrito"
+        }, 
+        {
+          "Burrito Type": "Mauna Lani", 
+          "URL": "https://www.yelp.com/biz/pokirrito-san-diego-2", 
+          "address": "4646 Convoy St", 
+          "burrito score": 4.0, 
+          "id": 124, 
+          "neighborhood": "Kearny Mesa", 
+          "price": 11.95, 
+          "restaurant name": "Pokirrito"
+        }, 
+        {
+          "Burrito Type": "Especial ", 
+          "URL": "https://www.yelp.com/biz/el-nopalito-encinitas", 
+          "address": "582 Santa Fe Dr", 
+          "burrito score": 2.6, 
+          "id": 126, 
+          "neighborhood": "Encinitas", 
+          "price": 4.87, 
+          "restaurant name": "El Nopalito "
+        }, 
+        {
+          "Burrito Type": "Ranchero steak", 
+          "URL": "https://www.yelp.com/biz/el-nopalito-encinitas", 
+          "address": "582 Santa Fe Dr", 
+          "burrito score": 2.6, 
+          "id": 127, 
+          "neighborhood": "Encinitas", 
+          "price": 4.87, 
+          "restaurant name": "El Nopalito "
+        }, 
+        {
+          "Burrito Type": "Local", 
+          "URL": "https://www.yelp.com/biz/los-tacos-oceanside", 
+          "address": "2183 Vista Way", 
+          "burrito score": 3.5, 
+          "id": 143, 
+          "neighborhood": "Oceanside", 
+          "price": 7.9, 
+          "restaurant name": "Los Tacos "
+        }, 
+        {
+          "Burrito Type": "Fusion", 
+          "URL": "https://www.yelp.com/biz/los-tacos-oceanside", 
+          "address": "2183 Vista Way", 
+          "burrito score": 4.2, 
+          "id": 144, 
+          "neighborhood": "Oceanside", 
+          "price": 8.5, 
+          "restaurant name": "Los Tacos "
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/albertacos-san-marcos", 
+          "address": "500 W San Marcos Blvd # 103", 
+          "burrito score": 3.7, 
+          "id": 147, 
+          "neighborhood": "San Marcos", 
+          "price": 5.7, 
+          "restaurant name": "Albertacos"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/albertacos-san-marcos", 
+          "address": "500 W San Marcos Blvd # 103", 
+          "burrito score": 3.2, 
+          "id": 148, 
+          "neighborhood": "San Marcos", 
+          "price": 5.25, 
+          "restaurant name": "Albertacos"
+        }, 
+        {
+          "Burrito Type": "California Surf", 
+          "URL": "https://www.yelp.com/biz/el-rey-moro-taco-shop-san-diego", 
+          "address": "4471 Clairemont Mesa Blvd", 
+          "burrito score": 4.0, 
+          "id": 149, 
+          "neighborhood": "Clairemont", 
+          "price": 9.19, 
+          "restaurant name": "El Rey Moro"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/el-dorado-mexican-food-temecula", 
+          "address": "29000 Old Town Front St", 
+          "burrito score": 4.5, 
+          "id": 153, 
+          "neighborhood": "Temecula", 
+          "price": 6.94, 
+          "restaurant name": "El Dorado Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Super", 
+          "URL": "https://www.yelp.com/biz/el-dorado-mexican-food-temecula", 
+          "address": "29000 Old Town Front St", 
+          "burrito score": 3.8, 
+          "id": 154, 
+          "neighborhood": "Temecula", 
+          "price": 6.94, 
+          "restaurant name": "El Dorado Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego", 
+          "address": "3951 Governor Dr", 
+          "burrito score": 2.2, 
+          "id": 178, 
+          "neighborhood": "University City", 
+          "price": 6.25, 
+          "restaurant name": "Papa Chito's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego", 
+          "address": "3951 Governor Dr", 
+          "burrito score": 3.75, 
+          "id": 179, 
+          "neighborhood": "University City", 
+          "price": 6.25, 
+          "restaurant name": "Papa Chito's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/el-pueblo-authentic-mexican-food-cardiff-by-the-sea", 
+          "address": "820 Birmingham Dr", 
+          "burrito score": 4.3, 
+          "id": 180, 
+          "neighborhood": "Cardiff ", 
+          "price": 4.99, 
+          "restaurant name": "El Pueblo Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "http://www.burrosandfries.com/", 
+          "address": "4705 Clairemont Dr", 
+          "burrito score": 3.5, 
+          "id": 181, 
+          "neighborhood": "Clairemont", 
+          "price": 6.89, 
+          "restaurant name": "Burros and Fries"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "http://www.burrosandfries.com/", 
+          "address": "4705 Clairemont Dr", 
+          "burrito score": 4.0, 
+          "id": 182, 
+          "neighborhood": "Clairemont", 
+          "price": 6.89, 
+          "restaurant name": "Burros and Fries"
+        }, 
+        {
+          "Burrito Type": "Adobada", 
+          "URL": "https://www.yelp.com/biz/king-burrito-oceanside-2", 
+          "address": "3490 Marron Rd", 
+          "burrito score": 2.8, 
+          "id": 183, 
+          "neighborhood": "Oceanside", 
+          "price": 4.99, 
+          "restaurant name": "King Burrito"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/king-burrito-oceanside-2", 
+          "address": "3490 Marron Rd", 
+          "burrito score": 2.5, 
+          "id": 184, 
+          "neighborhood": "Oceanside", 
+          "price": 5.29, 
+          "restaurant name": "King Burrito"
+        }, 
+        {
+          "Burrito Type": "Adobada", 
+          "URL": "https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego", 
+          "address": "4937 Diane Ave", 
+          "burrito score": 3.6, 
+          "id": 187, 
+          "neighborhood": "Clairemont", 
+          "price": 6.5, 
+          "restaurant name": "Carmen's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego", 
+          "address": "4937 Diane Ave", 
+          "burrito score": 4.0, 
+          "id": 188, 
+          "neighborhood": "Clairemont", 
+          "price": 6.5, 
+          "restaurant name": "Carmen's Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Pollo asado", 
+          "URL": "https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos", 
+          "address": "1909 W San Marcos Blvd", 
+          "burrito score": 2.9, 
+          "id": 189, 
+          "neighborhood": "San Marcos", 
+          "price": 6.25, 
+          "restaurant name": "Senor Panchos"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos", 
+          "address": "1909 W San Marcos Blvd", 
+          "burrito score": 4.0, 
+          "id": 190, 
+          "neighborhood": "San Marcos", 
+          "price": 6.25, 
+          "restaurant name": "Senor Panchos"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/los-cabos-san-marcos", 
+          "address": "165 S Rancho Santa Fe Rd", 
+          "burrito score": 3.0, 
+          "id": 191, 
+          "neighborhood": "San Marcos", 
+          "price": 5.99, 
+          "restaurant name": "Los Cabos"
+        }, 
+        {
+          "Burrito Type": "Al pastor", 
+          "URL": "https://www.yelp.com/biz/los-cabos-san-marcos", 
+          "address": "165 S Rancho Santa Fe Rd", 
+          "burrito score": 4.0, 
+          "id": 192, 
+          "neighborhood": "San Marcos", 
+          "price": 5.69, 
+          "restaurant name": "Los Cabos"
+        }, 
+        {
+          "Burrito Type": "Tilapia one", 
+          "URL": "https://www.yelp.com/biz/rubios-la-jolla-4", 
+          "address": "9500 Gilman Dr", 
+          "burrito score": 3.2, 
+          "id": 193, 
+          "neighborhood": "UTC", 
+          "price": 7.99, 
+          "restaurant name": "Rubios UCSD"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.0, 
+          "id": 194, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 2.0, 
+          "id": 195, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 2.4, 
+          "id": 196, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 2.2, 
+          "id": 197, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.6, 
+          "id": 198, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.9, 
+          "id": 199, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.5, 
+          "id": 200, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.0, 
+          "id": 201, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.5, 
+          "id": 202, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.5, 
+          "id": 203, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 4.0, 
+          "id": 204, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.0, 
+          "id": 205, 
+          "neighborhood": "North Park", 
+          "price": 8.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Nutty", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 4.4, 
+          "id": 206, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Veg Out", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 4.5, 
+          "id": 207, 
+          "neighborhood": "North Park", 
+          "price": 6.95, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Veggie", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.25, 
+          "id": 208, 
+          "neighborhood": "North Park", 
+          "price": 5.25, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Bean and cheese", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 2.0, 
+          "id": 209, 
+          "neighborhood": "North Park", 
+          "price": 3.75, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California - Steak", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.9, 
+          "id": 210, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California - Steak", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.5, 
+          "id": 211, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California - Pork Adobada", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.0, 
+          "id": 212, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California - Pork Adobada", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 4.25, 
+          "id": 213, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California - Pork Adobada", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 4.5, 
+          "id": 214, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California - Chicken", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 2.5, 
+          "id": 215, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California - Chicken", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.0, 
+          "id": 216, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Holy Moly", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 3.5, 
+          "id": 217, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Holy Moly", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 1.5, 
+          "id": 218, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Holy Moly", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 4.0, 
+          "id": 219, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Holy Moly", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 2.0, 
+          "id": 220, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "Holy Moly", 
+          "URL": "https://www.yelp.com/biz/lucha-libre-san-diego", 
+          "address": "3016 University Ave", 
+          "burrito score": 4.0, 
+          "id": 221, 
+          "neighborhood": "North Park", 
+          "price": 7.5, 
+          "restaurant name": "Lucha Libre North Park"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego", 
+          "address": "3095 Clairemont Dr", 
+          "burrito score": 3.6, 
+          "id": 226, 
+          "neighborhood": "Clairemont", 
+          "price": 5.79, 
+          "restaurant name": "Roberto's Taco Shop Clairemont"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego", 
+          "address": "3095 Clairemont Dr", 
+          "burrito score": 3.0, 
+          "id": 227, 
+          "neighborhood": "Clairemont", 
+          "price": 5.79, 
+          "restaurant name": "Roberto's Taco Shop Clairemont"
+        }, 
+        {
+          "Burrito Type": "California + Guac + sour cream", 
+          "URL": "https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego", 
+          "address": "3095 Clairemont Dr", 
+          "burrito score": 4.0, 
+          "id": 228, 
+          "neighborhood": "Clairemont", 
+          "price": 7.29, 
+          "restaurant name": "Roberto's Taco Shop Clairemont"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego", 
+          "address": "3095 Clairemont Dr", 
+          "burrito score": 3.0, 
+          "id": 229, 
+          "neighborhood": "Clairemont", 
+          "price": 5.69, 
+          "restaurant name": "Roberto's Taco Shop Clairemont"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "https://www.yelp.com/biz/chipotle-mexican-grill-carlsbad", 
+          "address": "2505 Palomar airport Rd", 
+          "burrito score": 2.75, 
+          "id": 230, 
+          "neighborhood": "Carlsbad", 
+          "price": 7.15, 
+          "restaurant name": "Chipotle"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego", 
+          "address": "110 Washington St", 
+          "burrito score": 3.6, 
+          "id": 235, 
+          "neighborhood": "Hillcrest", 
+          "price": 6.95, 
+          "restaurant name": "El Cuervo"
+        }, 
+        {
+          "Burrito Type": "Pollo adobado", 
+          "URL": "https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego", 
+          "address": "110 Washington St", 
+          "burrito score": 4.0, 
+          "id": 236, 
+          "neighborhood": "Hillcrest", 
+          "price": 5.95, 
+          "restaurant name": "El Cuervo"
+        }, 
+        {
+          "Burrito Type": "Asada", 
+          "URL": "https://www.yelp.com/biz/el-torito-foods-vista-2", 
+          "address": "249 Emerald Dr", 
+          "burrito score": 3.1, 
+          "id": 237, 
+          "neighborhood": "Vista", 
+          "price": 5.49, 
+          "restaurant name": "El Torrito Foods"
+        }, 
+        {
+          "Burrito Type": "Adobada", 
+          "URL": "https://www.yelp.com/biz/el-torito-foods-vista-2", 
+          "address": "249 Emerald Dr", 
+          "burrito score": 2.6, 
+          "id": 238, 
+          "neighborhood": "Vista", 
+          "price": 3.99, 
+          "restaurant name": "El Torrito Foods"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/la-morena-taco-shop-san-diego", 
+          "address": "5059 Federal Blvd", 
+          "burrito score": 3.0, 
+          "id": 239, 
+          "neighborhood": "Webster", 
+          "price": 6.35, 
+          "restaurant name": "La Morena Taco Shop and Seafood"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "https://www.yelp.com/biz/taco-villa-san-diego", 
+          "address": "9500 Gilman Dr", 
+          "burrito score": 4.0, 
+          "id": 240, 
+          "neighborhood": "UTC", 
+          "price": 5.99, 
+          "restaurant name": "Taco Villa"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/valentines-mexican-food-san-diego-6", 
+          "address": "1157 Sixth Ave", 
+          "burrito score": 4.2, 
+          "id": 246, 
+          "neighborhood": "Downtown", 
+          "price": 7.9, 
+          "restaurant name": "Valentines Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California Chipotle", 
+          "URL": "https://www.yelp.com/biz/valentines-mexican-food-san-diego-6", 
+          "address": "1157 Sixth Ave", 
+          "burrito score": 4.0, 
+          "id": 247, 
+          "neighborhood": "Downtown", 
+          "price": 7.9, 
+          "restaurant name": "Valentines Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "https://www.yelp.com/biz/matador-mexican-grill-san-diego-2", 
+          "address": "5201 Linda Vista Rd", 
+          "burrito score": 3.0, 
+          "id": 248, 
+          "neighborhood": "Morena", 
+          "price": 6.6, 
+          "restaurant name": "Matador Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/matador-mexican-grill-san-diego-2", 
+          "address": "5201 Linda Vista Rd", 
+          "burrito score": 3.0, 
+          "id": 249, 
+          "neighborhood": "Morena", 
+          "price": 6.6, 
+          "restaurant name": "Matador Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/joses-taco-oceanside", 
+          "address": "3910 Vista Way", 
+          "burrito score": 3.3, 
+          "id": 250, 
+          "neighborhood": "Oceanside", 
+          "price": 6.1, 
+          "restaurant name": "Jose's Taco"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/cortez-mexican-food-bonsall", 
+          "address": "5517 Mission Rd", 
+          "burrito score": 3.2, 
+          "id": 251, 
+          "neighborhood": "Bonsall", 
+          "price": 6.25, 
+          "restaurant name": "Cortez Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Dave's California", 
+          "URL": "https://www.yelp.com/biz/california-burrito-company-san-diego-2", 
+          "address": "6912 Miramar Rd", 
+          "burrito score": 3.3, 
+          "id": 252, 
+          "neighborhood": "Miramar", 
+          "price": 6.5, 
+          "restaurant name": "California Burrito Company"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/california-burrito-company-san-diego-2", 
+          "address": "6912 Miramar Rd", 
+          "burrito score": 3.5, 
+          "id": 253, 
+          "neighborhood": "Miramar", 
+          "price": 5.5, 
+          "restaurant name": "California Burrito Company"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/california-burrito-company-san-diego-2", 
+          "address": "6912 Miramar Rd", 
+          "burrito score": 3.5, 
+          "id": 254, 
+          "neighborhood": "Miramar", 
+          "price": 5.5, 
+          "restaurant name": "California Burrito Company"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/the-taco-stand-encinitas", 
+          "address": "642 S Coast Hwy 101", 
+          "burrito score": 4.2, 
+          "id": 268, 
+          "neighborhood": "Encinitas ", 
+          "price": 7.49, 
+          "restaurant name": "Taco Stand Encinitas"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/the-taco-stand-encinitas", 
+          "address": "642 S Coast Hwy 101", 
+          "burrito score": 4.2, 
+          "id": 269, 
+          "neighborhood": "Encinitas ", 
+          "price": 7.49, 
+          "restaurant name": "Taco Stand Encinitas"
+        }, 
+        {
+          "Burrito Type": "Al pastor ", 
+          "URL": "https://www.yelp.com/biz/the-taco-stand-encinitas", 
+          "address": "642 S Coast Hwy 101", 
+          "burrito score": 3.0, 
+          "id": 270, 
+          "neighborhood": "Encinitas ", 
+          "price": 5.99, 
+          "restaurant name": "Donato's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/the-taco-stand-encinitas", 
+          "address": "642 S Coast Hwy 101", 
+          "burrito score": 4.0, 
+          "id": 271, 
+          "neighborhood": "Encinitas ", 
+          "price": 5.99, 
+          "restaurant name": "Donato's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2", 
+          "address": "1313 Garnet Ave", 
+          "burrito score": 4.25, 
+          "id": 272, 
+          "neighborhood": "Pacific Beach", 
+          "price": 6.39, 
+          "restaurant name": "Ortiz's Taco Shop #2"
+        }, 
+        {
+          "Burrito Type": "California chicken", 
+          "URL": "https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2", 
+          "address": "1313 Garnet Ave", 
+          "burrito score": 2.66, 
+          "id": 273, 
+          "neighborhood": "Pacific Beach", 
+          "price": 6.39, 
+          "restaurant name": "Ortiz's Taco Shop #2"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2", 
+          "address": "1313 Garnet Ave", 
+          "burrito score": 4.2, 
+          "id": 274, 
+          "neighborhood": "Pacific Beach", 
+          "price": 6.39, 
+          "restaurant name": "Ortiz's Taco Shop #2"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2", 
+          "address": "1313 Garnet Ave", 
+          "burrito score": 3.5, 
+          "id": 275, 
+          "neighborhood": "Pacific Beach", 
+          "price": 6.39, 
+          "restaurant name": "Ortiz's Taco Shop #2"
+        }, 
+        {
+          "Burrito Type": "Mahi", 
+          "URL": "https://www.yelp.com/biz/el-portal-fresh-mexican-grill-san-diego", 
+          "address": "4101 Genesee Ave", 
+          "burrito score": 3.1, 
+          "id": 276, 
+          "neighborhood": "Clairemont", 
+          "price": 7.35, 
+          "restaurant name": "El Portal Fresh Mexican Grill"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "https://www.yelp.com/biz/el-portal-fresh-mexican-grill-san-diego", 
+          "address": "4101 Genesee Ave", 
+          "burrito score": 3.75, 
+          "id": 277, 
+          "neighborhood": "Clairemont", 
+          "price": 6.7, 
+          "restaurant name": "El Portal Fresh Mexican Grill"
+        }, 
+        {
+          "Burrito Type": "Cali Diablo", 
+          "URL": "https://www.yelp.com/biz/famoso-mexican-street-food-san-diego-20", 
+          "address": "815 C St", 
+          "burrito score": 3.1, 
+          "id": 282, 
+          "neighborhood": "Downtown", 
+          "price": 10.5, 
+          "restaurant name": "Famoso Mexican Street Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/los-panchos-san-diego-2", 
+          "address": "409 Washington St", 
+          "burrito score": 3.7, 
+          "id": 290, 
+          "neighborhood": "Hillcrest", 
+          "price": 6.25, 
+          "restaurant name": "Los Panchos Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Bitchin California", 
+          "URL": "https://www.yelp.com/biz/los-panchos-san-diego-2", 
+          "address": "409 Washington St", 
+          "burrito score": 4.4, 
+          "id": 291, 
+          "neighborhood": "Hillcrest", 
+          "price": 7.25, 
+          "restaurant name": "Los Panchos Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Tijuana", 
+          "URL": "https://www.yelp.com/biz/los-panchos-san-diego-2", 
+          "address": "409 Washington St", 
+          "burrito score": 3.7, 
+          "id": 292, 
+          "neighborhood": "Hillcrest", 
+          "price": 7.0, 
+          "restaurant name": "Los Panchos Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Chicken avocado", 
+          "URL": "https://www.yelp.com/biz/el-pollo-loco-oceanside-5", 
+          "address": "3500 College Blvd", 
+          "burrito score": 3.2, 
+          "id": 295, 
+          "neighborhood": "Oceanside", 
+          "price": 5.99, 
+          "restaurant name": "El Pollo Loco"
+        }, 
+        {
+          "Burrito Type": "California ", 
+          "URL": "https://www.yelp.com/biz/glorias-taco-shop-san-diego", 
+          "address": "1233 28th St", 
+          "burrito score": 2.7, 
+          "id": 296, 
+          "neighborhood": "South Park", 
+          "price": 5.65, 
+          "restaurant name": "Gloria's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Cabeza", 
+          "URL": "https://www.yelp.com/biz/glorias-taco-shop-san-diego", 
+          "address": "1233 28th St", 
+          "burrito score": 2.0, 
+          "id": 297, 
+          "neighborhood": "South Park", 
+          "price": 5.49, 
+          "restaurant name": "Gloria's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/ruribertos-taco-shop-san-diego", 
+          "address": "3202 Mission Blvd", 
+          "burrito score": 2.9, 
+          "id": 298, 
+          "neighborhood": "Mission Beach", 
+          "price": 7.75, 
+          "restaurant name": "Mr. Ruribertos Taco Shop "
+        }, 
+        {
+          "Burrito Type": "Carne asada", 
+          "URL": "https://www.yelp.com/biz/ruribertos-taco-shop-san-diego", 
+          "address": "3202 Mission Blvd", 
+          "burrito score": 3.0, 
+          "id": 299, 
+          "neighborhood": "Mission Beach", 
+          "price": 7.75, 
+          "restaurant name": "Mr. Ruribertos Taco Shop "
+        }, 
+        {
+          "Burrito Type": "Chicken Shawarma", 
+          "URL": "https://www.yelp.com/biz/mister-falafel-san-diego", 
+          "address": "4461 Clairemont Mesa Blvd", 
+          "burrito score": 3.5, 
+          "id": 300, 
+          "neighborhood": "Clairemont", 
+          "price": 6.99, 
+          "restaurant name": "Mister Falafel"
+        }, 
+        {
+          "Burrito Type": "Hot cheetos", 
+          "URL": "https://www.yelp.com/biz/lupes-taco-shop-san-diego", 
+          "address": "7621 Linda Vista Rd", 
+          "burrito score": 3.7, 
+          "id": 306, 
+          "neighborhood": "Linda Vista", 
+          "price": 7.29, 
+          "restaurant name": "Lupe's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Surfin California", 
+          "URL": "https://www.yelp.com/biz/lupes-taco-shop-san-diego", 
+          "address": "7621 Linda Vista Rd", 
+          "burrito score": 4.25, 
+          "id": 307, 
+          "neighborhood": "Linda Vista", 
+          "price": 7.89, 
+          "restaurant name": "Lupe's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/lupes-taco-shop-san-diego", 
+          "address": "7621 Linda Vista Rd", 
+          "burrito score": 3.9, 
+          "id": 308, 
+          "neighborhood": "Linda Vista", 
+          "price": 7.49, 
+          "restaurant name": "Lupe's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Spicy a la Diabla", 
+          "URL": "https://www.yelp.com/biz/lupes-taco-shop-san-diego", 
+          "address": "7621 Linda Vista Rd", 
+          "burrito score": 2.0, 
+          "id": 309, 
+          "neighborhood": "Linda Vista", 
+          "price": 7.49, 
+          "restaurant name": "Lupe's Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/cotixan-mexican-and-seafood-san-diego", 
+          "address": "4370 Genessee Ave", 
+          "burrito score": 3.5, 
+          "id": 317, 
+          "neighborhood": "Clairemont", 
+          "price": 7.19, 
+          "restaurant name": "Cotixan"
+        }, 
+        {
+          "Burrito Type": "Carnitas", 
+          "URL": "https://www.yelp.com/biz/lourdes-encinitas-2", 
+          "address": "2113 San Elijo Ave", 
+          "burrito score": 3.75, 
+          "id": 322, 
+          "neighborhood": "Encinitas", 
+          "price": 7.35, 
+          "restaurant name": "Lourdes"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/lourdes-encinitas-2", 
+          "address": "2113 San Elijo Ave", 
+          "burrito score": 3.1, 
+          "id": 323, 
+          "neighborhood": "Encinitas", 
+          "price": 6.35, 
+          "restaurant name": "Lourdes"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/los-palmitos-taco-shop-san-diego", 
+          "address": "5145 Clairemont Mesa Blvd", 
+          "burrito score": 4.3, 
+          "id": 331, 
+          "neighborhood": "Clairemont", 
+          "price": 7.1, 
+          "restaurant name": "Los palmitos"
+        }, 
+        {
+          "Burrito Type": "Surf & Turf", 
+          "URL": "https://www.yelp.com/biz/los-palmitos-taco-shop-san-diego", 
+          "address": "5145 Clairemont Mesa Blvd", 
+          "burrito score": 3.6, 
+          "id": 332, 
+          "neighborhood": "Clairemont", 
+          "price": 8.25, 
+          "restaurant name": "Los palmitos"
+        }, 
+        {
+          "Burrito Type": "Adobada", 
+          "URL": "https://www.yelp.com/biz/filibertos-encinitas-2", 
+          "address": "476 S Coast Hwy 101", 
+          "burrito score": 3.7, 
+          "id": 337, 
+          "neighborhood": "Encinitas", 
+          "price": 6.25, 
+          "restaurant name": "Filiberto's"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/filibertos-encinitas-2", 
+          "address": "476 S Coast Hwy 101", 
+          "burrito score": 4.0, 
+          "id": 338, 
+          "neighborhood": "Encinitas", 
+          "price": 6.25, 
+          "restaurant name": "Filiberto's"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/don-carlos-taco-shop-la-jolla", 
+          "address": "737 Pearl St", 
+          "burrito score": 3.7, 
+          "id": 339, 
+          "neighborhood": "La Jolla", 
+          "price": 7.75, 
+          "restaurant name": "Don Carlos Taco Shop"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/don-carlos-taco-shop-la-jolla", 
+          "address": "737 Pearl St", 
+          "burrito score": 2.9, 
+          "id": 340, 
+          "neighborhood": "La Jolla", 
+          "price": 7.75, 
+          "restaurant name": "Don Carlos Taco Shop"
+        }, 
+        {
+          "Burrito Type": "Al pastor tradicional ", 
+          "URL": "https://www.yelp.com/biz/los-tacos-oceanside-2", 
+          "address": "3480 Marron Rd", 
+          "burrito score": 3.6, 
+          "id": 341, 
+          "neighborhood": "Oceanside", 
+          "price": 8.25, 
+          "restaurant name": "Los Tacos 2"
+        }, 
+        {
+          "Burrito Type": "Asada", 
+          "URL": "https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego", 
+          "address": "420 Robinson Ave", 
+          "burrito score": 2.8, 
+          "id": 348, 
+          "neighborhood": "Hillcrest", 
+          "price": 7.0, 
+          "restaurant name": "Roberto's Taco Shop Hillcrest"
+        }, 
+        {
+          "Burrito Type": "California Surf and Turf", 
+          "URL": "https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego", 
+          "address": "420 Robinson Ave", 
+          "burrito score": 4.0, 
+          "id": 349, 
+          "neighborhood": "Hillcrest", 
+          "price": 9.0, 
+          "restaurant name": "Roberto's Taco Shop Hillcrest"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego", 
+          "address": "420 Robinson Ave", 
+          "burrito score": 2.2, 
+          "id": 350, 
+          "neighborhood": "Hillcrest", 
+          "price": 7.0, 
+          "restaurant name": "Roberto's Taco Shop Hillcrest"
+        }, 
+        {
+          "Burrito Type": "carne asada ", 
+          "URL": "https://www.yelp.com/biz/caliente-mexican-food-san-diego", 
+          "address": "11815 Sorrento Valley Rd", 
+          "burrito score": 3.5, 
+          "id": 358, 
+          "neighborhood": "Sorrento Valley", 
+          "price": 5.56, 
+          "restaurant name": "Caliente Mexican Food"
+        }, 
+        {
+          "Burrito Type": "carne asada ", 
+          "URL": "https://www.yelp.com/biz/caliente-mexican-food-san-diego", 
+          "address": "11815 Sorrento Valley Rd", 
+          "burrito score": 4.0, 
+          "id": 359, 
+          "neighborhood": "Sorrento Valley", 
+          "price": 5.56, 
+          "restaurant name": "Caliente Mexican Food"
+        }, 
+        {
+          "Burrito Type": "fried fish", 
+          "URL": "https://www.yelp.com/biz/caliente-mexican-food-san-diego", 
+          "address": "11815 Sorrento Valley Rd", 
+          "burrito score": 3.5, 
+          "id": 360, 
+          "neighborhood": "Sorrento Valley", 
+          "price": 5.56, 
+          "restaurant name": "Caliente Mexican Food"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/caliente-mexican-food-san-diego", 
+          "address": "11815 Sorrento Valley Rd", 
+          "burrito score": 2.0, 
+          "id": 361, 
+          "neighborhood": "Sorrento Valley", 
+          "price": 6.47, 
+          "restaurant name": "Caliente Mexican Food"
+        }, 
+        {
+          "Burrito Type": "Steak everything ", 
+          "URL": "https://www.yelp.com/biz/burrito-factory-austin", 
+          "address": "2025 Guadalupe St", 
+          "burrito score": 3.5, 
+          "id": 362, 
+          "neighborhood": "Austin", 
+          "price": 7.35, 
+          "restaurant name": "Burrito Factory"
+        }, 
+        {
+          "Burrito Type": "California", 
+          "URL": "https://www.yelp.com/biz/kotija-jr-taco-shop-del-mar", 
+          "address": "2668 Del Mar Heights Rd", 
+          "burrito score": 3.7, 
+          "id": 372, 
+          "neighborhood": "Del Mar", 
+          "price": 6.99, 
+          "restaurant name": "Kotija Jr"
+        }, 
+        {
+          "Burrito Type": "Steak fajitas", 
+          "URL": "https://www.yelp.com/biz/kotija-jr-taco-shop-del-mar", 
+          "address": "2668 Del Mar Heights Rd", 
+          "burrito score": 4.2, 
+          "id": 373, 
+          "neighborhood": "Del Mar", 
+          "price": 7.1, 
+          "restaurant name": "Kotija Jr"
+        }
+      ]
