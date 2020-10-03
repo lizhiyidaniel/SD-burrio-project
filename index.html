@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>San Diego Burrito Tourism Authority</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
 </head>
 
 <body>
@@ -15,6 +16,14 @@
       <div class="col-md-12 jumbotron text-center">
         <h1>San Diego Burrito Tourism Authority</h1>
         <p>Use the below to explore San Diego AirBnB listings and local Mexican cuisine. </p>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='col-lg-6'>
+        <img src='/static/images/trow throw burrito.jpg' class='center-block picture' id='burrito1'>
+      </div>
+      <div class='col-lg-6'>
+        <img src='/static/images/throw bur.jpg' class='center-block picture' id='burrito2'>
       </div>
     </div>
     <div class="row">
@@ -47,7 +56,7 @@
         <h2>Top 10 Burritos in San Diego as Rated by Random People</h1>
         <div id="burritos_table" class = "table-responsive">
           <table border="1" class="table table-striped">
-            <thead>
+            <thead class='thead-dark'>
               <tr style="text-align: right;">
                 <th>Location</th>
                 <th>Burrito</th>
@@ -157,6 +166,7 @@
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.0.1/lib/anime.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="./static/js/app.js"></script>
   <script src="listings.json"></script>
