@@ -3,12 +3,10 @@ CREATE table burritos (
         Location varchar not null,
         Burrito varchar not null,
         Neighborhood varchar not null,
-        Yelp decimal not null,
-        Google decimal not null,
+        Address varchar not null,
+        URL varchar not null,
         Cost decimal not null,
         overall decimal not null,
-        Total_Listings int not null,
-        Average_Price_per_Night int not NULL,
         primary key (id)
 )
 
