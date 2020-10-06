@@ -7,11 +7,23 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>San Diego Burrito Tourism Authority</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href='static/css/style.css'
 
 </head>
 
-<body></body>
-  <div id="container2"></div>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand">Navigation</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-item nav-link" href="#">Neighborhood Dashboard</a>
+      </div>
+    </div>
+  </nav>
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
@@ -21,35 +33,26 @@
     </div>
     <div class='row'>
       <div class='col-lg-6'>
-        <img src='/static/images/trow throw burrito.jpg' class='center-block picture' id='burrito1'>
+        <img src='/static/images/trow throw burrito.jpg' class='picture' id='burrito1'>
+        <p>Click me!</p>
       </div>
-      <div class='col-lg-6'>
-        <img src='/static/images/throw bur.jpg' class='center-block picture' id='burrito2'>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Neighborhood:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)"></select>
-        </div>
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">AirBnB Info</h3>
-          </div>
-          <div id="neighborhood-metadata" class="panel-body"></div>
-        </div>
-      </div>
-      <div class="col-md-5">
-        <div id="line"></div>
-      </div>
-      <div class="col-md-5">
-        <div id="gauge"></div>
+      <div class='col-lg-6' id='burrito2'>
+        <img src='/static/images/throw bur.jpg' class='picture'>
       </div>
     </div>
+
     <div class="row">
-      <div class="col-md-12">
-        <div id="bubble"></div>
+      <div class="col-lg-12">
+        <h2>Burritos and AirBnB Locations in San Diego</h2>
+        <div id="map"></div>
+      </div>
+    </div>
+    <div class = 'row'>
+      <div class="col-lg-6" id="airbnb_chart">
+        <h2>AirBnB Listings Per Neighbor (bar graph)</h2>
+      </div>
+      <div class="col-lg-6" id="burritos_chart">
+        <h2>Burritos Chart</h2>
       </div>
     </div>
     <div class="row">
@@ -58,9 +61,9 @@
         <div id="burritos_table" class = "table-responsive">
           <table border="1" class="table table-striped">
             <thead class='thead-dark'>
-              <tr style="text-align: right;">
+              <tr style="text-align: center;">
                 <th>Location</th>
-                <th>Burrito</th>
+                <th>Burrito Type</th>
                 <th>Neighborhood</th>
                 <th>Address</th>
                 <th>URL</th>
@@ -169,10 +172,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/animejs@3.0.1/lib/anime.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="./static/js/app.js"></script>
+  <script src="./static/js/app2.js"></script>
   <script src="listings.json"></script>
-  <script src="https://d3js.org/d3.v6.min.js"></script>
-  <script src="https://cdn.anychart.com/releases/8.0.0/js/anychart-base.min.js"></script>
   
 </body>
 
