@@ -1,99 +1,86 @@
-  // Use the D3 Library to read in samples.json
+// Drop Down menu
 
-// d3.json("../listings.json").then(function(data) {
-//     console.log(data)
-// });
+neighborhood_list = []
 
-id_list = []
-price_list = []
+function create_dropdown(){
+    var dropdown = d3.select("#selDataset")
+    d3.json("../summary.json").then(function(response) {
+        for (var i = 0; i < response.length; i++) {
+            neighborhood_list.push(response[i].Neighborhood);
+            }
 
-d3.json("../listings.json").then(function(response) {
-    for (var i = 0; i < response.length; i++) {
-        if (response[i].price < 2000) {
-            id_list.push(response[i].id);
-            price_list.push(response[i].price)
-        }
-    }
-});
+        neighborhood_list = _.uniq(neighborhood_list,false);
 
-d3.json("../listings.json").then(function(data){
-    var trace1 = {
-        type: "line",
-        x: id_list.slice(0,10),
-        y: price_list.slice(0,10),
-
-    }
-    var data = [trace1];
-    var layout = {
-        title: `Sample Chart`,
-        xaxis: {
-            title: "Listing"
-        },
-        yaxis: {
-            title: "Price"
-        }
-        };
-    Plotly.newPlot('line', data, layout)
+        neighborhood_list.forEach(neighborhood => {
+            dropdown.append("option")
+            .text(neighborhood)
+            .attr('value', neighborhood)
+        });
     });
-  
+ };
 
-// // Drop Down menu
-// function create_dropdown(){
-//    var dropdown = d3.select("#selDataset")
-//    d3.json("summary.json").then(function(data) {
-//        // CHANGE TO MATCH DATA var names = data.names;
-//        // names.forEach(Neighborhood => {
-//            dropdown.append("option")
-//            .text(Neighborhood)
-//            .attr('value', Neighborhood)
-//        });
-//    });
-// };
+create_dropdown()
 
-// create_dropdown()
+function optionChanged(new_selection){
+    buildairbnbdata (new_selection)
+    buildPlot(new_selection)
+}
 
-// function optionChanged(new_selection){
-//     buildMetaData(new_selection)
-//     buildPlot(new_selection)
-// }
+function buildairbnbdata(selection) {
+    d3.json('../summary.json').then(function(response) {
+        var selected_hood = response.filter(neighborhood => neighborhood.Neighborhood == selection)[0];
+        // console.log(selected_hood)
+        var div_tag = d3.select("#neighborhood-metadata")
+        div_tag.html("")    
+        // Object.entries(selected_hood).forEach(([key, value]) => div_tag.append("p").text(`${key}: ${value}`));
+        div_tag.append("p").text(`Average Price/Night: $${selected_hood["Avg Price Per Night"]}`);
+        div_tag.append("p").text(`Total Listings: ${selected_hood["Total Listings"]}`)
+        //console.log(selected_hood["Avg Price Per Night"]));
+        
+    });
+};
 
-// // // Display each key-value pair from metadata JSON object
-// function buildMetaData(selection) {
-//     d3.json("samples.json").then(function(data){
-//         var samples = data.metadata;
-//         // other charts will call data.sample
-//         //filter by whatever is chosen
-//         var new_array = samples.filter(sample => sample.id == selection);
-//         console.log(new_array);
-//         var div_tag = d3.select("#neighborhood-metadata")
-//         div_tag.html("")
-//         Object.entries(new_array[0]).forEach(([key, value]) => div_tag.append("h3").text(`${key}: ${value}`));
-//      });
-// }
+//buildairbnbdata("Carmel Valley")
 
-// // // Horizontal Bar Chart- sample_values as values for bar chart, otu_ids as labels, otu_labels as hovertext; top 10 OTU's
-// function buildPlot(selection) {
-//     d3.json("samples.json").then(function(data){
-//         var samples = data.samples;
-//         var new_array = samples.filter(sample => sample.id == selection);
-//         var trace1 = {
-//             type: "bar",
-//             //slice for top 10 and order
-//             x: new_array[0].otu_ids.slice(0,10).reverse(),
-//             y: new_array[0].sample_values.slice(0,10).reverse(),
-//             orientation: "h"
-//         }
-//         var data = [trace1];
-//         var layout = {
-//             title: `top 10 OTUs`,
-//             xaxis: {
-//                 title: "OTU IDs"
-//             },
-//             yaxis: {
-//                 title: "Sample Values"
-//             }
-//             };
-//         Plotly.newPlot('bar', data, layout)
-//     });
-// }
-// optionChanged("Pacific Beach");
+// Horizontal Bar Chart- sample_values as values for bar chart, otu_ids as labels, otu_labels as hovertext; top 10 OTU's
+function buildPlot(selection) {
+    d3.json("../burritos.json").then(function(data){
+        var new_array = data.filter(neighborhood => neighborhood.neighborhood == selection);
+        // console.log(new_array);
+        var restaurant_name_type = [];
+        var restaurant_address = [];
+        var burrito_score = [];
+        var burrito_type = [];
+        var burrito_price = [];
+        // for (const [key,value] of Object.entries(new_array)){
+        //     console.log('${key}: ${value}');
+        // }
+        for (i = 0; i < new_array.length; i++) {
+            //restaurant_name_type.push(new_array[i]["restaurant name"]);
+            restaurant_name_type.push(`${new_array[i]["restaurant name"]}: ${new_array[i]["Burrito Type"]}: ${new_array[i]["burrito score"]}`);
+            //console.log(restaurant_name_type);
+            restaurant_address.push(new_array[i]["address"]);
+            burrito_score.push(new_array[i]["burrito score"]);
+            burrito_type.push(new_array[i]["Burrito Type"]);
+            burrito_price.push(new_array[i]["price"])
+        };
+        var trace1 = {
+            type: "bar",
+            //slice for top 10 and order
+            x: restaurant_name_type,
+            y: burrito_score,
+        }
+        var data = [trace1];
+        var layout = {
+            title: `Burritos in the Neighborhood`,
+            xaxis: {
+                title: "Purveyors of Burritos"
+            },
+            yaxis: {
+                title: "Overall Satisfaction Score"
+            }
+            };
+        Plotly.newPlot('bar', data, layout)
+    });
+}
+optionChanged("Carmel Valley");
