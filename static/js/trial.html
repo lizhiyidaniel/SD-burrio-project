@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html>
+<head>  
+<script>
+window.onload = function () {
+	
+var chart = new CanvasJS.Chart("chartContainer", {
+	animationEnabled: true,
+	
+	title:{
+		text:"Airbnb Top listings in San Diego by neighborhood"
+	},
+	axisX:{
+		interval: 1
+	},
+	axisY2:{
+		interlacedColor: "rgba(1,77,101,.2)",
+		gridColor: "rgba(1,77,101,.1)",
+		title: "Number of Listings"
+	},
+	data: [{
+		type: "bar",
+		name: "neighborhood",
+		axisYType: "secondary",
+		color: "#014D65",
+		dataPoints: [
+			{ y: 171, label: "Grant Hill" },
+			{ y: 191, label: "Bay Park" },
+			{ y: 207, label: "Mira Mesa" },
+			{ y: 211, label: "Old Town" },
+			{ y: 211, label: "Park West" },
+			{ y: 214, label: "West University Heights" },
+			{ y: 230, label: "University City" },
+			{ y: 233, label: "Gaslamp Quarter" },
+			{ y: 242, label: "Little Italy" },
+			{ y: 311, label: "Balboa Park" },
+			{ y: 336, label: "Loma Portal" },
+			{ y: 522, label: "Ocean Beach" },
+			{ y: 576, label: "Midtown" },
+			{ y: 629, label: "NortH Hills" },
+			{ y: 745, label: "East Village" },
+			{ y: 847, label: "La Jolla" },
+			{ y: 1052, label: "Pacific Beach" },
+			{ y: 1680, label: "Mission Bay" }
+		]
+	}]
+});
+chart.render();
+
+}
+</script>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>
