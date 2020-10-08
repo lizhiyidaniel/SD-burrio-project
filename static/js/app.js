@@ -35,7 +35,6 @@ function buildairbnbdata(selection) {
         // Object.entries(selected_hood).forEach(([key, value]) => div_tag.append("p").text(`${key}: ${value}`));
         div_tag.append("p").text(`Average Price/Night: $${selected_hood["Avg Price Per Night"]}`);
         div_tag.append("p").text(`Total Listings: ${selected_hood["Total Listings"]}`)
-        //console.log(selected_hood["Avg Price Per Night"]));
         
     });
 };
@@ -52,8 +51,7 @@ function buildPlot(selection) {
         var burrito_score = [];
         var burrito_type = [];
         var burrito_price = [];
-        // for (const [key,value] of Object.entries(new_array)){
-        //     console.log('${key}: ${value}');
+
         // }
         for (i = 0; i < new_array.length; i++) {
             //restaurant_name_type.push(new_array[i]["restaurant name"]);
