@@ -35,7 +35,6 @@ function buildairbnbdata(selection) {
         // Object.entries(selected_hood).forEach(([key, value]) => div_tag.append("p").text(`${key}: ${value}`));
         div_tag.append("p").text(`Average Price/Night: $${selected_hood["Avg Price Per Night"]}`);
         div_tag.append("p").text(`Total Listings: ${selected_hood["Total Listings"]}`)
-        //console.log(selected_hood["Avg Price Per Night"]));
         
     });
 };
@@ -47,17 +46,18 @@ function buildPlot(selection) {
     d3.json("../burritos.json").then(function(data){
         var new_array = data.filter(neighborhood => neighborhood.neighborhood == selection);
         // console.log(new_array);
+        var restaurant_name = [];
         var restaurant_name_type = [];
         var restaurant_address = [];
         var burrito_score = [];
         var burrito_type = [];
         var burrito_price = [];
-        // for (const [key,value] of Object.entries(new_array)){
-        //     console.log('${key}: ${value}');
+
         // }
         for (i = 0; i < new_array.length; i++) {
             //restaurant_name_type.push(new_array[i]["restaurant name"]);
             restaurant_name_type.push(`${new_array[i]["restaurant name"]}: ${new_array[i]["Burrito Type"]}: ${new_array[i]["burrito score"]}`);
+            restaurant_name.push(new_array[i]["restaurant name"]);
             //console.log(restaurant_name_type);
             restaurant_address.push(new_array[i]["address"]);
             burrito_score.push(new_array[i]["burrito score"]);
@@ -67,14 +67,16 @@ function buildPlot(selection) {
         var trace1 = {
             type: "bar",
             //slice for top 10 and order
-            x: restaurant_name_type,
+            x: [restaurant_name, burrito_type],
+            // x: restaurant_name_type,
             y: burrito_score,
         }
         var data = [trace1];
         var layout = {
             title: `Burritos in the Neighborhood`,
             xaxis: {
-                title: "Purveyors of Burritos"
+                title: "Purveyors of Burritos",
+                automargin: true
             },
             yaxis: {
                 title: "Overall Satisfaction Score"
