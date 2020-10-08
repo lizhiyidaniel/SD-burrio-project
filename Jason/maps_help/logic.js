@@ -18,9 +18,9 @@ function createMap(low, med, high, higher) {
         // Create an overlayMaps object to hold the bikeStations layer
         var overlayMaps = {
           "Low Cost (<$60)": low,
-          "Med Cost ($99-$149)": med,
-          "High Cost ($150-$299)": high,
-          "Highest Cost (>$300)": higher
+          "Med Cost ($60-$99)": med,
+          "High Cost ($99-$150)": high,
+          "Highest Cost (>$150)": higher
         };
       
         // Create the map object with options
@@ -53,22 +53,21 @@ function createMap(low, med, high, higher) {
       
         // Loop through the stations array
         for (var index = 0; index < response.length; index++) {
-                if (response[index].price < 60) {
+                if (response[index].price <= 60) {
                                 // For each station, create a marker and bind a popup with the station's name
-                        var listing = L.marker([response[index].latitude, response[index].longitude])
-                        //     .bindPopup("<h3>" + station.name + "<h3><h3>Capacity: " + station.capacity + "</h3>");
+                        var listing = L.marker([response[index].latitude, response[index].longitude]).bindPopup("<h3>" + response[index].name + "<h3><p>Price: $" + response[index].price + "</p>");
                         
                         // Add the marker to the bikeMarkers array
                         listings_1.push(listing);
-                        } else if (response[index].price < 99) {
-                                var listing = L.marker([response[index].latitude, response[index].longitude])
+                        } else if (response[index].price <= 99 && response[index].price > 60) {
+                                var listing = L.marker([response[index].latitude, response[index].longitude]).bindPopup("<h3>" + response[index].name + "<h3><p>Price: $" + response[index].price + "</p>");
                                 listings_2.push(listing);
 
-                        } else if (response[index].price < 150) {
-                                var listing = L.marker([response[index].latitude, response[index].longitude])
+                        } else if (response[index].price <= 150 && response[index].price > 99) {
+                                var listing = L.marker([response[index].latitude, response[index].longitude]).bindPopup("<h3>" + response[index].name + "<h3><p>Price: $" + response[index].price + "</p>");
                                 listings_3.push(listing);
                         } else {
-                                var listing = L.marker([response[index].latitude, response[index].longitude])
+                                var listing = L.marker([response[index].latitude, response[index].longitude]).bindPopup("<h3>" + response[index].name + "<h3><p>Price: $" + response[index].price + "</p>");
                                 listings_4.push(listing);
                         }
 
