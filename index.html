@@ -7,11 +7,11 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>San Diego Burrito Tourism Authority</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <link rel="stylesheet" href='static/css/style.css'
+  <link rel="stylesheet" href='static/css/style.css'>
 
 </head>
 
-<body>
+<body onload="draw_map()">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand">Navigation</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -45,7 +45,7 @@
     <div class="row">
       <div class="col-lg-12">
         <h2>Burritos and AirBnB Locations in San Diego</h2>
-        <div id="map"></div>
+        <div id="map-id"></div>
       </div>
     </div>
     <div class = 'row'>
@@ -60,18 +60,6 @@
     </div>
 
     <div>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
       <br>
       <br>
       <br>
@@ -356,6 +344,7 @@
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="./static/js/app2.js"></script>
   <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+  <script src="Jason/maps_help/logic.js"></script>
   <script src="listings.json"></script>
   
 </body>

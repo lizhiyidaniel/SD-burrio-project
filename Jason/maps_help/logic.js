@@ -1,3 +1,5 @@
+function draw_map() {
+
 function createMap(low, med, high, higher) {
 
         // Create the tile layer that will be the background of our map
@@ -25,7 +27,7 @@ function createMap(low, med, high, higher) {
         var map = L.map("map-id", {
           center: [32.72, -117.16],
           zoom: 12,
-          layers: [lightmap]
+          layers: [lightmap, low]
         });
       
         // Create a layer control, pass in the baseMaps and overlayMaps. Add the layer control to the map
@@ -85,4 +87,6 @@ function createMap(low, med, high, higher) {
       
       // Perform an API call to the Citi Bike API to get station information. Call createMarkers when complete
       d3.json("../../listings.json", createMarkers);
+}
+
       

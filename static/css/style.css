@@ -5,3 +5,10 @@
 .jumbotron {
         background: linear-gradient(to right, green 0%, green 33%, white 33%, white 66%, red 66%, red 100%);
 }
+
+#map-id {
+  /* height: 100%; */
+  padding: 0;
+  margin: 0;
+  width: 50%
+}
