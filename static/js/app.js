@@ -52,22 +52,25 @@ function buildPlot(selection) {
         var burrito_score = [];
         var burrito_type = [];
         var burrito_price = [];
+        var burrito_type_price=[]
 
         // }
         for (i = 0; i < new_array.length; i++) {
             //restaurant_name_type.push(new_array[i]["restaurant name"]);
             restaurant_name_type.push(`${new_array[i]["restaurant name"]}: ${new_array[i]["Burrito Type"]}: ${new_array[i]["burrito score"]}`);
+            //restaurant_name_price.push(`${new_array[i]["restaurant name"]}: ${new_array[i]["price"]}`);
             restaurant_name.push(new_array[i]["restaurant name"]);
             //console.log(restaurant_name_type);
             restaurant_address.push(new_array[i]["address"]);
             burrito_score.push(new_array[i]["burrito score"]);
             burrito_type.push(new_array[i]["Burrito Type"]);
+            burrito_type_price.push(`${new_array[i]["Burrito Type"]}: ${new_array[i]["burrito score"]}: $${new_array[i]["price"]}`);
             burrito_price.push(new_array[i]["price"])
         };
         var trace1 = {
             type: "bar",
             //slice for top 10 and order
-            x: [restaurant_name, burrito_type],
+            x: [restaurant_name, burrito_type_price],
             // x: restaurant_name_type,
             y: burrito_score,
         }
