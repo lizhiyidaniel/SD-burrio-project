@@ -7,7 +7,7 @@ function createMap(low, med, high, higher) {
           attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
           maxZoom: 18,
           id: "light-v10",
-          accessToken: 'pk.eyJ1IjoiZ2FidW5pbGFzaiIsImEiOiJja2ZkYWM4em8wM3JrMnFydTRmNTlvcTYzIn0.osCWDLS9bZP6nd-mrHRSNA'
+          accessToken: 'pk.eyJ1IjoiZ2FidW5pbGFzaiIsImEiOiJja2ZkYTkyb3UwNGh6MnVtdmxhajlla3JxIn0.sBtML3qsir6qU1nrXRG8uw'
         });
       
         // Create a baseMaps object to hold the lightmap layer
