@@ -52,15 +52,16 @@ Aggregate of Ratings from Blind Taste Testers (inclusive of Yelp and Google Revi
  
 
 
-**JavaScript libraries: **
+**JavaScript libraries:**
 
 * D3
  
 * Plotly 
  
 * Leaflet JS
+
  
-**new JS lib: **
+**new JS lib:**
 
 * AnimeJS: Creates custom animations for HTML objects
  
